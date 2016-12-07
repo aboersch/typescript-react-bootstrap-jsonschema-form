@@ -1,0 +1,19 @@
+{
+  "name": "typescript-react-bootstrap-jsonschema-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboersch/typescript-react-bootstrap-jsonschema-form.git"
+  },
+  "author": "Alexander Boersch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aboersch/typescript-react-bootstrap-jsonschema-form/issues"
+  },
+  "homepage": "https://github.com/aboersch/typescript-react-bootstrap-jsonschema-form#readme"
+}
